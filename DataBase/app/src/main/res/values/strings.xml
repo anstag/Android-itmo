@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DataBase</string>
+    <string name="action_settings">Settings</string>
+    <string name="text_name">Name</string>
+    <string name="edit_name">Edit name</string>
+    <string name="text_phone">Name</string>
+    <string name="edit_phone">Edit phone</string>
+    <string name="insert_btn">Insert</string>
+    <string name="show_btn">Show</string>
+    <string name="delete_btn">Delete</string>
+</resources>

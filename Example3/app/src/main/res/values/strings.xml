@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Выбор сериалов</string>
+    <string name="choose">Press Me</string>
+    <string name="genre">Choose Me</string>
+
+    <string-array name="choose_genre">
+        <item>Comedy</item>
+        <item>Fantasy</item>
+        <item>Horror</item>
+        <item>Action</item>
+        <item>Crime</item>
+    </string-array>
+</resources>

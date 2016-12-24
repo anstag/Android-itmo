@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Проверка на вшивость</string>
+
+    <string name="question_go">Вы из ИТМО?</string>
+
+    <string name="yes_button">Да</string>
+    <string name="no_button">Нет</string>
+
+    <string name="correct_answer">Красава!</string>
+    <string name="incorrect_answer">Пф... Трололо!)</string>
+
+    <string name="action_settings">Настройки</string>
+</resources>
